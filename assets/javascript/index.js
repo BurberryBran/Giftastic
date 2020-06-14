@@ -1,11 +1,3 @@
-// $.get("http://api.giphy.com/v1/gifs/search?api_key=TgZ9OP15XAl9lIA9sjEGlFrjwErVE0pd&q=dog&limit=5",function(data, status){
-//     console.log(data)
-// });
-
-// List of 10 Fish (this list is no longer accurate) - 1. Betta Fish 2. African Cichlid 3. American Cichlid 4. Gourami 5. Blue Tang
-//  6. Yellow Tang 7. Lion Fish 8. Clown Triggerfish 9. Red Mandarin Stocking 10. Clownfish
-
-
 $(document).ready(function () {
 
   // Fish Go Here.
@@ -82,3 +74,10 @@ $(document).ready(function () {
 //         musicPlaying = false;
 //     }
 // });
+
+// $.get("http://api.giphy.com/v1/gifs/search?api_key=TgZ9OP15XAl9lIA9sjEGlFrjwErVE0pd&q=dog&limit=5",function(data, status){
+//     console.log(data)
+// });
+
+// List of 10 Fish (this list is no longer accurate) - 1. Betta Fish 2. African Cichlid 3. American Cichlid 4. Gourami 5. Blue Tang
+//  6. Yellow Tang 7. Lion Fish 8. Clown Triggerfish 9. Red Mandarin Stocking 10. Clownfish
