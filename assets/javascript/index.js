@@ -1,3 +1,5 @@
+var PORT = process.env.PORT || 5000;
+
 $(document).ready(function () {
 
   // Fish Go Here.
